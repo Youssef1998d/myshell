@@ -7,7 +7,7 @@ Proposition : Program will search for the process, wait for its execution, and t
 
 ## Usage
 
-There are interactive mode (like cmd) and batch mode (executes commands in `commands.txt`).
+There are interactive mode (like cmd) and batch mode (executes commands in file).
 
 ## Python
 
